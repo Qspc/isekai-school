@@ -1,0 +1,11 @@
+API : http://ecocim-backend-theone.beit.co.id/api/ManualConfig/TestBEIT
+question :
+    - terdapat 5 kelas
+    - Pembagian kelas berdasarkan nilai Ujian Akhir semester sesuai Angka puluhannya. (50 - 90)
+    - ada kelas ke 6, diisi oleh murid dengan unsur C dan O
+    - di kelas 6, murid yg habis dibagi 7 menikah tahun depan
+    - jika siswa mendapat nilai ujian prima. maka bakal mati tahun ini, di bulan sesuai dengan digit terakhir nilainya. tapi kalo dah kelewat berarti matinya tahun depan
+Task : 
+    - Tampilkan data detail setiap kelas
+    - jumlah siswa yang akan mati di bulan ini 
+    - akan menikah di tahun depan.
